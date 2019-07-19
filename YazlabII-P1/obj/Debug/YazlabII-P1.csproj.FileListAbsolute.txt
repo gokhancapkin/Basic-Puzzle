@@ -1,0 +1,30 @@
+C:\Users\Gökhan\Desktop\Yazlab\YazlabII-P1\YazlabII-P1\bin\Debug\YazlabII-P1.exe.config
+C:\Users\Gökhan\Desktop\Yazlab\YazlabII-P1\YazlabII-P1\bin\Debug\YazlabII-P1.exe
+C:\Users\Gökhan\Desktop\Yazlab\YazlabII-P1\YazlabII-P1\bin\Debug\YazlabII-P1.pdb
+C:\Users\Gökhan\Desktop\Yazlab\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.csprojAssemblyReference.cache
+C:\Users\Gökhan\Desktop\Yazlab\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII_P1.Form1.resources
+C:\Users\Gökhan\Desktop\Yazlab\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII_P1.Properties.Resources.resources
+C:\Users\Gökhan\Desktop\Yazlab\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.csproj.GenerateResource.cache
+C:\Users\Gökhan\Desktop\Yazlab\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\Desktop\Yazlab\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.exe
+C:\Users\Gökhan\Desktop\Yazlab\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.pdb
+C:\Users\vural\Downloads\YazlabII-P1\YazlabII-P1\YazlabII-P1\bin\Debug\YazlabII-P1.exe.config
+C:\Users\vural\Downloads\YazlabII-P1\YazlabII-P1\YazlabII-P1\bin\Debug\YazlabII-P1.exe
+C:\Users\vural\Downloads\YazlabII-P1\YazlabII-P1\YazlabII-P1\bin\Debug\YazlabII-P1.pdb
+C:\Users\vural\Downloads\YazlabII-P1\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.csprojAssemblyReference.cache
+C:\Users\vural\Downloads\YazlabII-P1\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII_P1.Form1.resources
+C:\Users\vural\Downloads\YazlabII-P1\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII_P1.Properties.Resources.resources
+C:\Users\vural\Downloads\YazlabII-P1\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.csproj.GenerateResource.cache
+C:\Users\vural\Downloads\YazlabII-P1\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.csproj.CoreCompileInputs.cache
+C:\Users\vural\Downloads\YazlabII-P1\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.exe
+C:\Users\vural\Downloads\YazlabII-P1\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.pdb
+C:\Users\Gökhan\Desktop\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.csprojAssemblyReference.cache
+C:\Users\Gökhan\Desktop\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII_P1.Form1.resources
+C:\Users\Gökhan\Desktop\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.csproj.GenerateResource.cache
+C:\Users\Gökhan\Desktop\YazlabII-P1\YazlabII-P1\obj\Debug\YazlabII-P1.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\Desktop\YazlabII-P1\YazlabII-P1\bin\Debug\Basic Puzzle.exe.config
+C:\Users\Gökhan\Desktop\YazlabII-P1\YazlabII-P1\bin\Debug\Basic Puzzle.exe
+C:\Users\Gökhan\Desktop\YazlabII-P1\YazlabII-P1\bin\Debug\Basic Puzzle.pdb
+C:\Users\Gökhan\Desktop\YazlabII-P1\YazlabII-P1\obj\Debug\Basic_Puzzle.Properties.Resources.resources
+C:\Users\Gökhan\Desktop\YazlabII-P1\YazlabII-P1\obj\Debug\Basic Puzzle.exe
+C:\Users\Gökhan\Desktop\YazlabII-P1\YazlabII-P1\obj\Debug\Basic Puzzle.pdb
